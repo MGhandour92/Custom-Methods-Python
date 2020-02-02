@@ -2,7 +2,6 @@ import os
 
 # "E:\\GIT\\Python\\testOSlib"
 
-
 def renameFiles(pathStr, renameTxt):
     i = 0
 
